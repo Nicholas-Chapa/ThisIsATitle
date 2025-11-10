@@ -23,7 +23,7 @@ header h1{
     text-align: center;
     color: #ff8c00;
     flex: 1;
-    font: 50px "Times New Roman";
+    font: 50px "Georgia", serif;
     font-weight:800;
 }
 
